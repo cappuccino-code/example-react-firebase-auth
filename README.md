@@ -1,3 +1,11 @@
+# proof of concept of react connection to firebase authentication
+
+![alt Image showing the loged in state](https://github.com/cappuccino-code/example-react-firebase-auth/blob/main/imgs/LogedinState.png)
+
+![alt Image showing the log in state](https://github.com/cappuccino-code/example-react-firebase-auth/blob/main/imgs/LoginState.png)
+
+![alt Image showing the sign up state](https://github.com/cappuccino-code/example-react-firebase-auth/blob/main/imgs/SignupState.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
